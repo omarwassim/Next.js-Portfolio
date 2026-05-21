@@ -1,208 +1,238 @@
-🚀 Omar Wassim Mohamed – Next.js Portfolio
-<div align="center"> <br /> <a href="https://993jw432iw.ufs.sh/f/51exUUinK6w3dimmD9uEK9OarspfihJj3Qxw2Y0ZTgq4MS7F" target="_blank"> <img src="https://993jw432iw.ufs.sh/f/51exUUinK6w3dimmD9uEK9OarspfihJj3Qxw2Y0ZTgq4MS7F" alt="Project Banner"> </a> <br /> <div> <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" /> <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" /> <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" /> <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" /> </div> <h3 align="center">Modern Cybersecurity & Full-Stack Portfolio</h3> <div align="center"> Built with Next.js, Three.js, Tailwind CSS, and Framer Motion to showcase projects, cybersecurity skills, and interactive UI experiences. </div> </div>
-📋 Table of Contents
-🤖 Introduction
-⚙️ Tech Stack
-🔋 Features
-👨‍💻 About Me
-🛠 Skills
-🚀 Projects
-🤸 Quick Start
-📞 Contact
-🤖 Introduction
+<div align="center">
+  <br />
+    <a href="https://www.linkedin.com/in/omar-wassim-b34b192ba" target="_blank">
+      <img src="https://993jw432iw.ufs.sh/f/51exUUinK6w3dimmD9uEK9OarspfihJj3Qxw2Y0ZTgq4MS7F" alt="Project Banner">
+    </a>
+  <br />
 
-This portfolio was built using modern web technologies including Next.js, Three.js, Framer Motion, and Tailwind CSS to create a professional and interactive developer experience.
+  <div>
+    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
+  </div>
 
-The website highlights my:
+  <h3 align="center">Omar Wassim Mohamed - Modern Developer Portfolio</h3>
 
-Full-stack development experience
-Cybersecurity background
-Problem-solving journey
-Leadership activities
-Hackathon achievements
-Modern UI/UX skills
+  <div align="center">
+    Intelligent Systems Engineering Student | Full-Stack Developer | Cybersecurity Enthusiast
+  </div>
+</div>
 
-The project focuses on performance, responsiveness, animations, and clean architecture while providing a futuristic and engaging design.
+---
 
-⚙️ Tech Stack
-Next.js
-TypeScript
-React.js
-Tailwind CSS
-Three.js
-Framer Motion
-Node.js
-Express.js
-Prisma ORM
-PostgreSQL
-MongoDB
-MySQL
-🔋 Features
+<h2>📋 Table of Contents</h2>
 
-👉 Modern animated hero section with spotlight effects
+<ol>
+  <li><a href="#introduction">🤖 Introduction</a></li>
+  <li><a href="#tech-stack">⚙️ Tech Stack</a></li>
+  <li><a href="#features">🔋 Features</a></li>
+  <li><a href="#about">👨‍💻 About Me</a></li>
+  <li><a href="#education">🎓 Education</a></li>
+  <li><a href="#skills">🛠 Skills</a></li>
+  <li><a href="#projects">🚀 Projects</a></li>
+  <li><a href="#quick-start">🤸 Quick Start</a></li>
+  <li><a href="#contact">📞 Contact</a></li>
+</ol>
 
-👉 Fully responsive design for all devices
+---
 
-👉 Interactive 3D components using Three.js
+<h2 id="introduction">🤖 Introduction</h2>
 
-👉 Smooth animations powered by Framer Motion
+<p>
+Built with <strong>Next.js</strong>, <strong>Three.js</strong>, <strong>Framer Motion</strong>, and <strong>Tailwind CSS</strong>, this portfolio showcases my journey as a Full-Stack Developer and Cybersecurity Enthusiast.
+</p>
 
-👉 Dynamic projects showcase section
+<p>
+The website demonstrates modern UI/UX design, responsive layouts, 3D interactions, animations, and scalable architecture while highlighting my technical projects, hackathon achievements, and engineering background.
+</p>
 
-👉 Cybersecurity-inspired UI elements
+---
 
-👉 Reusable component architecture
+<h2 id="tech-stack">⚙️ Tech Stack</h2>
 
-👉 Fast and optimized Next.js performance
+<ul>
+  <li>Next.js</li>
+  <li>React.js</li>
+  <li>TypeScript</li>
+  <li>Tailwind CSS</li>
+  <li>Three.js</li>
+  <li>Framer Motion</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>Prisma ORM</li>
+  <li>PostgreSQL</li>
+  <li>MongoDB</li>
+  <li>MySQL</li>
+</ul>
 
-👉 Admin dashboard integration support
+---
 
-👉 Contact & social media integration
+<h2 id="features">🔋 Features</h2>
 
-👨‍💻 About Me
-Omar Wassim Mohamed
+<ul>
+  <li>Modern animated Hero section</li>
+  <li>Interactive 3D elements using Three.js</li>
+  <li>Responsive design for all devices</li>
+  <li>Smooth Framer Motion animations</li>
+  <li>Cybersecurity-inspired UI design</li>
+  <li>Projects showcase section</li>
+  <li>Reusable component architecture</li>
+  <li>Optimized Next.js performance</li>
+  <li>Admin dashboard integration support</li>
+  <li>Interactive contact section</li>
+</ul>
 
-Intelligent Systems Engineering Student
-📍 Cairo, Egypt
+---
 
-Dynamic Problem Solving Instructor and Scouts Team Leader with experience in:
+<h2 id="about">👨‍💻 About Me</h2>
 
-Front-end & Back-end Development
-Cybersecurity & Ethical Hacking
-Leadership & Team Management
-Teaching Problem Solving using C++
+<h3>Omar Wassim Mohamed</h3>
 
-Passionate about building modern applications, solving real-world problems, and creating engaging digital experiences.
+<p>
+Intelligent Systems Engineering Student, Problem Solving Instructor, and Cybersecurity Enthusiast with experience in front-end development, back-end systems, ethical hacking, and leadership.
+</p>
 
-🎓 Education
-Helwan National University
+<p>
+Passionate about creating scalable web applications, solving technical problems, and building modern digital experiences using the latest technologies.
+</p>
 
-Faculty of Engineering
-Program: Intelligent Systems & Electronics
+---
 
-📅 2022 – Present
-🎯 CGPA: 3.35
+<h2 id="education">🎓 Education</h2>
 
-College De La Salle (Français)
+<h3>Helwan National University</h3>
 
-📅 2008 – 2022
+<ul>
+  <li>Faculty of Engineering</li>
+  <li>Program: Intelligent Systems & Electronics</li>
+  <li>CGPA: 3.35</li>
+  <li>2022 - Present</li>
+</ul>
 
-🛠 Skills
-Cybersecurity
-Web Penetration Testing
-Mobile Reverse Engineering
-Linux Administration
-Network Security (CCNA Level)
-Ethical Hacking
-Red Teaming
-HTB / THM / PortSwigger / PicoCTF / RootMe
-Programming & Development
-Front-End
-HTML
-CSS
-JavaScript
-React.js
-Next.js
-Back-End
-Node.js
-Express.js
-REST APIs
-Databases
-PostgreSQL
-MongoDB
-MySQL
-Programming Languages
-C++
-JavaScript
-PHP
-Python
-Other Skills
-Bash Scripting
-Problem Solving
-Algorithms & Data Structures
-OOP
-Design Patterns
-SOLID Principles
-🚀 Projects
-🧠 Aang – AI Avatar for Kids
+<h3>College De La Salle (Français)</h3>
 
-Hackathon project focused on teaching children AI concepts using interactive AI avatars and cartoons.
+<ul>
+  <li>2008 - 2022</li>
+</ul>
 
-Features
-Real-time animated AI avatar
-Chat interaction system
-Voice communication using TTS/STT
-AI-generated educational responses
+---
 
-🏆 Achieved 2nd Place among 36 universities in the Helwan Cyber Arena Hackathon organized by CyShield & EG-CERT.
+<h2 id="skills">🛠 Skills</h2>
 
-💰 Prize: 30,000 EGP
+<h3>Cybersecurity</h3>
 
-🌐 Helwan National University Official Website
+<ul>
+  <li>Web Penetration Testing</li>
+  <li>Mobile Reverse Engineering</li>
+  <li>Linux Administration</li>
+  <li>Network Security (CCNA Level)</li>
+  <li>Ethical Hacking</li>
+  <li>Red Teaming</li>
+  <li>HTB / THM / PortSwigger / PicoCTF / RootMe</li>
+</ul>
 
-Developed a complete university web application with an advanced admin panel system.
+<h3>Programming & Development</h3>
 
-Tech Stack
-Next.js + TypeScript
-Tailwind CSS
-Node.js + Express.js
-Prisma ORM
-PostgreSQL
-Features
-Admin dashboard
-User management
-Academic resource management
-Secure authentication system
-Responsive modern UI
-🌍 Languages
-Arabic — Native
-English — Intermediate
-French — Fluent (DELF/DALF Certified)
-🤸 Quick Start
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>React.js</li>
+  <li>Next.js</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>REST APIs</li>
+  <li>PostgreSQL</li>
+  <li>MongoDB</li>
+  <li>MySQL</li>
+  <li>C++</li>
+  <li>Python</li>
+  <li>PHP</li>
+  <li>Bash Scripting</li>
+  <li>OOP & Data Structures</li>
+  <li>Design Patterns & SOLID Principles</li>
+</ul>
 
-Follow these steps to run the project locally.
+---
 
-Prerequisites
+<h2 id="projects">🚀 Projects</h2>
 
-Install the following:
+<h3>🧠 Aang – AI Avatar for Kids</h3>
 
-Git
-Node.js
-npm
-Clone the Repository
+<p>
+Developed an AI-powered educational avatar that teaches children AI concepts through interactive cartoons and real-time animation.
+</p>
+
+<h4>Features</h4>
+
+<ul>
+  <li>Real-time AI avatar animation</li>
+  <li>Voice communication using TTS/STT</li>
+  <li>AI chat interaction system</li>
+  <li>Educational AI responses</li>
+</ul>
+
+<p>
+🏆 Secured <strong>2nd Place</strong> among 36 universities in the Helwan Cyber Arena Hackathon organized by CyShield & EG-CERT.
+</p>
+
+<p>
+💰 Prize: <strong>30,000 EGP</strong>
+</p>
+
+---
+
+<h3>🌐 Helwan National University Official Website</h3>
+
+<p>
+Developed a complete university management web application with a professional Admin Panel system.
+</p>
+
+<h4>Tech Stack</h4>
+
+<ul>
+  <li>Next.js + TypeScript</li>
+  <li>Tailwind CSS</li>
+  <li>Node.js + Express.js</li>
+  <li>Prisma ORM</li>
+  <li>PostgreSQL</li>
+</ul>
+
+<h4>Features</h4>
+
+<ul>
+  <li>Admin dashboard</li>
+  <li>User management system</li>
+  <li>Academic resources management</li>
+  <li>Authentication & security</li>
+  <li>Responsive UI/UX</li>
+</ul>
+
+---
+
+<h2>🌍 Languages</h2>
+
+<ul>
+  <li>Arabic — Native</li>
+  <li>English — Intermediate</li>
+  <li>French — Fluent (DELF/DALF Certified)</li>
+</ul>
+
+---
+
+<h2 id="quick-start">🤸 Quick Start</h2>
+
+<h3>Prerequisites</h3>
+
+<ul>
+  <li>Git</li>
+  <li>Node.js</li>
+  <li>npm</li>
+</ul>
+
+<h3>Clone the Repository</h3>
+
+```bash
 git clone https://github.com/yourusername/portfolio.git
 cd portfolio
-Install Dependencies
-npm install
-Run the Development Server
-npm run dev
-
-Open:
-
-http://localhost:3000
-📞 Contact
-
-📧 Email: omarwassim05@gmail.com
-
-📱 Phone: 01062264831
-
-💼 LinkedIn:
-Omar Wassim LinkedIn
-
-📍 Cairo, Egypt
-
-🚀 Future Goals
-Expand cybersecurity research and red teaming skills
-Build scalable SaaS applications
-Develop AI-powered platforms
-Contribute to open-source projects
-Continue competing in hackathons and CTFs
-⭐ Portfolio Vision
-
-This portfolio represents my journey as:
-
-Full-Stack Developer
-Cybersecurity Enthusiast
-Problem Solving Instructor
-Engineering Student
-Team Leader
