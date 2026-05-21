@@ -177,9 +177,7 @@ Developed an AI-powered educational avatar that teaches children AI concepts thr
 🏆 Secured <strong>2nd Place</strong> among 36 universities in the Helwan Cyber Arena Hackathon organized by CyShield & EG-CERT.
 </p>
 
-<p>
-💰 Prize: <strong>30,000 EGP</strong>
-</p>
+
 
 ---
 
